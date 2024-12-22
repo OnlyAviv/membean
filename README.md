@@ -72,7 +72,7 @@ The main class representing a MemBean training session.
 
 ## Contributions
 
-Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/redyetidev/membean).
+Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/onlyaviv/membean).
 
 ## License
 
@@ -80,4 +80,4 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ## Author
 
-Written with ❤️ by Aviv Keller <redyetidev@gmail.com>.
+Written with ❤️ by Aviv Keller <hello@onlyaviv.com>.
